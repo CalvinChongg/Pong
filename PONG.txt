@@ -1,0 +1,7 @@
+PONG:
+"Turtle" Library
+Functions
+dx dy
+border checking
+position calculating
+scoring system
